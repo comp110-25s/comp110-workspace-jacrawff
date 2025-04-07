@@ -1,4 +1,8 @@
-from exercises.ex04.river import River
+"""Simulating river."""
+
+from exercises.EX04.river import River
+
+__author__ = "730649503"
 
 my_river: River = River(num_fish=10, num_bears=2)
 
